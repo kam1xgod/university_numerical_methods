@@ -1,0 +1,10 @@
+D:\repos\NumMet\NumMetLabFive\LabFive\LabFive\bin\Debug\LabFive.exe.config
+D:\repos\NumMet\NumMetLabFive\LabFive\LabFive\bin\Debug\LabFive.exe
+D:\repos\NumMet\NumMetLabFive\LabFive\LabFive\bin\Debug\LabFive.pdb
+D:\repos\NumMet\NumMetLabFive\LabFive\LabFive\obj\Debug\LabFive.csproj.AssemblyReference.cache
+D:\repos\NumMet\NumMetLabFive\LabFive\LabFive\obj\Debug\LabFive.Form1.resources
+D:\repos\NumMet\NumMetLabFive\LabFive\LabFive\obj\Debug\LabFive.Properties.Resources.resources
+D:\repos\NumMet\NumMetLabFive\LabFive\LabFive\obj\Debug\LabFive.csproj.GenerateResource.cache
+D:\repos\NumMet\NumMetLabFive\LabFive\LabFive\obj\Debug\LabFive.csproj.CoreCompileInputs.cache
+D:\repos\NumMet\NumMetLabFive\LabFive\LabFive\obj\Debug\LabFive.exe
+D:\repos\NumMet\NumMetLabFive\LabFive\LabFive\obj\Debug\LabFive.pdb
