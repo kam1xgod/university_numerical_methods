@@ -1,0 +1,41 @@
+D:\Projects\Leto\Leto\obj\Debug\Leto.csproj.AssemblyReference.cache
+D:\Projects\Leto\Leto\bin\Debug\Leto.exe.config
+D:\Projects\Leto\Leto\bin\Debug\Leto.exe
+D:\Projects\Leto\Leto\bin\Debug\Leto.pdb
+D:\Projects\Leto\Leto\obj\Debug\Leto.Form1.resources
+D:\Projects\Leto\Leto\obj\Debug\Leto.Properties.Resources.resources
+D:\Projects\Leto\Leto\obj\Debug\Leto.csproj.GenerateResource.cache
+D:\Projects\Leto\Leto\obj\Debug\Leto.csproj.CoreCompileInputs.cache
+D:\Projects\Leto\Leto\obj\Debug\Leto.exe
+D:\Projects\Leto\Leto\obj\Debug\Leto.pdb
+D:\Leto\obj\Debug\Leto.csproj.AssemblyReference.cache
+D:\Leto\obj\Debug\Leto.Form1.resources
+D:\Leto\obj\Debug\Leto.Properties.Resources.resources
+D:\Leto\obj\Debug\Leto.csproj.GenerateResource.cache
+D:\Leto\obj\Debug\Leto.csproj.CoreCompileInputs.cache
+D:\Leto\obj\Debug\Leto.exe
+D:\Leto\obj\Debug\Leto.pdb
+D:\Leto\bin\Debug\Leto.exe.config
+D:\Leto\bin\Debug\Leto.exe
+D:\Leto\bin\Debug\Leto.pdb
+C:\Users\geran\OneDrive\Рабочий стол\Leto\bin\Debug\Leto.exe.config
+C:\Users\geran\OneDrive\Рабочий стол\Leto\bin\Debug\Leto.exe
+C:\Users\geran\OneDrive\Рабочий стол\Leto\bin\Debug\Leto.pdb
+C:\Users\geran\OneDrive\Рабочий стол\Leto\obj\Debug\Leto.csproj.AssemblyReference.cache
+C:\Users\geran\OneDrive\Рабочий стол\Leto\obj\Debug\Leto.csproj.SuggestedBindingRedirects.cache
+C:\Users\geran\OneDrive\Рабочий стол\Leto\obj\Debug\Leto.Form1.resources
+C:\Users\geran\OneDrive\Рабочий стол\Leto\obj\Debug\Leto.Properties.Resources.resources
+C:\Users\geran\OneDrive\Рабочий стол\Leto\obj\Debug\Leto.csproj.GenerateResource.cache
+C:\Users\geran\OneDrive\Рабочий стол\Leto\obj\Debug\Leto.csproj.CoreCompileInputs.cache
+C:\Users\geran\OneDrive\Рабочий стол\Leto\obj\Debug\Leto.exe
+C:\Users\geran\OneDrive\Рабочий стол\Leto\obj\Debug\Leto.pdb
+D:\repos\NumMet\Leto\bin\Debug\Leto.exe.config
+D:\repos\NumMet\Leto\bin\Debug\Leto.exe
+D:\repos\NumMet\Leto\bin\Debug\Leto.pdb
+D:\repos\NumMet\Leto\obj\Debug\Leto.csproj.AssemblyReference.cache
+D:\repos\NumMet\Leto\obj\Debug\Leto.Form1.resources
+D:\repos\NumMet\Leto\obj\Debug\Leto.Properties.Resources.resources
+D:\repos\NumMet\Leto\obj\Debug\Leto.csproj.GenerateResource.cache
+D:\repos\NumMet\Leto\obj\Debug\Leto.csproj.CoreCompileInputs.cache
+D:\repos\NumMet\Leto\obj\Debug\Leto.exe
+D:\repos\NumMet\Leto\obj\Debug\Leto.pdb
