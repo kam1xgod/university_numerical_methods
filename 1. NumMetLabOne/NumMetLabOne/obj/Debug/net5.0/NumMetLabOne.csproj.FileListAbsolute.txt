@@ -1,0 +1,16 @@
+D:\repos\NumMetLabOne\NumMetLabOne\bin\Debug\net5.0\NumMetLabOne.exe
+D:\repos\NumMetLabOne\NumMetLabOne\bin\Debug\net5.0\NumMetLabOne.deps.json
+D:\repos\NumMetLabOne\NumMetLabOne\bin\Debug\net5.0\NumMetLabOne.runtimeconfig.json
+D:\repos\NumMetLabOne\NumMetLabOne\bin\Debug\net5.0\NumMetLabOne.runtimeconfig.dev.json
+D:\repos\NumMetLabOne\NumMetLabOne\bin\Debug\net5.0\NumMetLabOne.dll
+D:\repos\NumMetLabOne\NumMetLabOne\bin\Debug\net5.0\ref\NumMetLabOne.dll
+D:\repos\NumMetLabOne\NumMetLabOne\bin\Debug\net5.0\NumMetLabOne.pdb
+D:\repos\NumMetLabOne\NumMetLabOne\obj\Debug\net5.0\NumMetLabOne.csproj.AssemblyReference.cache
+D:\repos\NumMetLabOne\NumMetLabOne\obj\Debug\net5.0\NumMetLabOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\NumMetLabOne\NumMetLabOne\obj\Debug\net5.0\NumMetLabOne.AssemblyInfoInputs.cache
+D:\repos\NumMetLabOne\NumMetLabOne\obj\Debug\net5.0\NumMetLabOne.AssemblyInfo.cs
+D:\repos\NumMetLabOne\NumMetLabOne\obj\Debug\net5.0\NumMetLabOne.csproj.CoreCompileInputs.cache
+D:\repos\NumMetLabOne\NumMetLabOne\obj\Debug\net5.0\NumMetLabOne.dll
+D:\repos\NumMetLabOne\NumMetLabOne\obj\Debug\net5.0\ref\NumMetLabOne.dll
+D:\repos\NumMetLabOne\NumMetLabOne\obj\Debug\net5.0\NumMetLabOne.pdb
+D:\repos\NumMetLabOne\NumMetLabOne\obj\Debug\net5.0\NumMetLabOne.genruntimeconfig.cache
