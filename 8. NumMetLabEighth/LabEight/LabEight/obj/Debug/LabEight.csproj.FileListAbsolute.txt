@@ -1,0 +1,10 @@
+D:\repos\NumMet\NumMetLabEighth\LabEight\LabEight\bin\Debug\LabEight.exe.config
+D:\repos\NumMet\NumMetLabEighth\LabEight\LabEight\bin\Debug\LabEight.exe
+D:\repos\NumMet\NumMetLabEighth\LabEight\LabEight\bin\Debug\LabEight.pdb
+D:\repos\NumMet\NumMetLabEighth\LabEight\LabEight\obj\Debug\LabEight.csproj.AssemblyReference.cache
+D:\repos\NumMet\NumMetLabEighth\LabEight\LabEight\obj\Debug\LabEight.Form1.resources
+D:\repos\NumMet\NumMetLabEighth\LabEight\LabEight\obj\Debug\LabEight.Properties.Resources.resources
+D:\repos\NumMet\NumMetLabEighth\LabEight\LabEight\obj\Debug\LabEight.csproj.GenerateResource.cache
+D:\repos\NumMet\NumMetLabEighth\LabEight\LabEight\obj\Debug\LabEight.csproj.CoreCompileInputs.cache
+D:\repos\NumMet\NumMetLabEighth\LabEight\LabEight\obj\Debug\LabEight.exe
+D:\repos\NumMet\NumMetLabEighth\LabEight\LabEight\obj\Debug\LabEight.pdb
